@@ -23,8 +23,8 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
 
  🚀 Highlights
 
- Built **9 Software Projects**
- Developing **3 Ongoing Industry-Focused AI Solutions**
+ Built 9 Software Projects
+ Developing 3 Ongoing Industry-Focused AI Solutions
  Backend & Cloud Engineering Enthusiast
  Open Source Contributor
  Active Hackathon Participant
@@ -43,10 +43,10 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
 
  🚀 Currently Participating
 
- CockroachDB × AWS Hackathon
- Google Cloud Agentic Cinema Hackathon
- Sarvam Buildin' Hours Hackathon
- x402 Global Challenge (Pre-Hack)
+ CockroachDB × AWS Hackathon,
+ Google Cloud Agentic Cinema Hackathon,
+ Sarvam Buildin' Hours Hackathon,
+ x402 Global Challenge (Pre-Hack),
  TrackShift Innovation Challenge
 
 
@@ -54,7 +54,7 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
  Tech Stack
  Languages          : C++,Python,Linux
  Tools & Platforms  : Git,Github,AWS,Google Cloud, Supabase,VS code,Cursor
-  Areas of Interest : Backend Development,Cloud Engineering,AI Application Development,Industry-Focused AI Solutions,Cloud-Native Applications,Open Source Development
+ Areas of Interest : Backend Development,Cloud Engineering,AI Application Development,Industry-Focused AI Solutions,Cloud-Native Applications,Open Source Development
 
  🚀 Featured Projects
 
