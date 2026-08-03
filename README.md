@@ -36,9 +36,9 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
 
  Participated
 
- AMD Slingshot Hackathon
- IBM SkillsBuild AI Builders Challenge
- Product Space × CodeBenders AI Hackathon
+ AMD Slingshot Hackathon,
+ IBM SkillsBuild AI Builders Challenge,
+ Product Space × CodeBenders AI Hackathon,
  Google Cloud Arcade
 
  🚀 Currently Participating
