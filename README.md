@@ -81,13 +81,11 @@ Focus: AI • Education
  Currently Learning
 
 * Advanced Backend Development
-* Cloud Architecture
 * Docker
 * Kubernetes
-* System Design
 * AI Agents
 * DevOps
-* CI/CD
+
 
 
 
