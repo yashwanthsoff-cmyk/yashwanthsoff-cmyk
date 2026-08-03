@@ -58,30 +58,23 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
 
  🚀 Featured Projects
 
-1) CoverageAI
-A multi-agent AI platform for screenplay analysis and script coverage, built for the **Google Cloud Agentic Cinema Hackathon** using autonomous AI agents.
+1) CoverageAI:A multi-agent AI platform for screenplay analysis and script coverage, built for the **Google Cloud Agentic Cinema Hackathon** using autonomous AI agents.                                  
 Focus:Agentic AI • Backend • Cloud
 
-2)NagarSeva
-An AI-powered civic grievance management platform that intelligently routes citizen complaints using image analysis and GPS-based location tracking.
+2)NagarSeva:An AI-powered civic grievance management platform that intelligently routes citizen complaints using image analysis and GPS-based location tracking.                                       
 Focus: AI • Backend • CivicTech
 
-3)RaceIQ
-An AI-powered Formula 1 analytics platform that provides race insights, driver statistics, and intelligent race summaries.
-Focus: AI • Cloud • Sports Analytics and AWS
+3)RaceIQ:An AI-powered Formula 1 analytics platform that provides race insights, driver statistics, and intelligent race summaries.
+Focus: AI • Cloud • Sports Analytics and AWS                                       
 
-4) Aahaar AI
+4) Aahaar AI:An intelligent nutrition assistant that analyzes food images, estimates calories, and provides personalized dietary recommendations.
+Focus:AI • Healthcare • Backend                                  
 
-An intelligent nutrition assistant that analyzes food images, estimates calories, and provides personalized dietary recommendations.
-Focus:AI • Healthcare • Backend
+5) MindSync:An AI-powered mental wellness platform designed to provide personalized emotional support and wellness assistance.
+Focus: AI • Healthcare                         
 
-5) MindSync
-An AI-powered mental wellness platform designed to provide personalized emotional support and wellness assistance.
-Focus: AI • Healthcare
-
-6) EduSkill AI
-An AI-driven educational platform focused on personalized learning experiences and intelligent student assistance.
-Focus: AI • Education
+6) EduSkill AI:An AI-driven educational platform focused on personalized learning experiences and intelligent student assistance.
+Focus: AI • Education                                               
 
 ---
 
@@ -106,7 +99,7 @@ I'm passionate about building backend systems, cloud-native applications, and AI
 
  Let's Connect
 
- 💼 LinkedIn:https://www.linkedin.com/in/yashwanth-s-75b33938b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+ 💼 LinkedIn:https://www.linkedin.com/in/yashwanth-s-75b33938b?utm_source=share_via&utm_content=profile&utm_medium=member_android                  
  📧 Email:yashwanthsoff@gmail.com
 
 
