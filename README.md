@@ -24,7 +24,7 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
  🚀 Highlights
 
  Built 9 Software Projects
- Developing 3 Ongoing Industry-Focused AI Solutions
+ Developing  Industry-Focused AI Solutions
  Backend & Cloud Engineering Enthusiast
  Open Source Contributor
  Active Hackathon Participant
@@ -41,13 +41,6 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
  Product Space × CodeBenders AI Hackathon,
  Google Cloud Arcade
 
- 🚀 Currently Participating
-
- CockroachDB × AWS Hackathon,
- Google Cloud Agentic Cinema Hackathon,
- Sarvam Buildin' Hours Hackathon,
- x402 Global Challenge (Pre-Hack),
- TrackShift Innovation Challenge
 
 
 
@@ -56,27 +49,7 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
  Tools & Platforms  : Git,Github,AWS,Google Cloud, Supabase,VS code,Cursor                       
  Areas of Interest : Backend Development,Cloud Engineering,AI Application Development,Industry-Focused AI Solutions,Cloud-Native             Applications,Open Source Development
 
- 🚀 Featured Projects
 
-1) CoverageAI:A multi-agent AI platform for screenplay analysis and script coverage, built for the **Google Cloud Agentic Cinema Hackathon** using autonomous AI agents.                                  
-Focus:Agentic AI • Backend • Cloud
-
-2)NagarSeva:An AI-powered civic grievance management platform that intelligently routes citizen complaints using image analysis and GPS-based location tracking.                                       
-Focus: AI • Backend • CivicTech
-
-3)RaceIQ:An AI-powered Formula 1 analytics platform that provides race insights, driver statistics, and intelligent race summaries.
-Focus: AI • Cloud • Sports Analytics and AWS                                       
-
-4) Aahaar AI:An intelligent nutrition assistant that analyzes food images, estimates calories, and provides personalized dietary recommendations.
-Focus:AI • Healthcare • Backend                                  
-
-5) MindSync:An AI-powered mental wellness platform designed to provide personalized emotional support and wellness assistance.
-Focus: AI • Healthcare                         
-
-6) EduSkill AI:An AI-driven educational platform focused on personalized learning experiences and intelligent student assistance.
-Focus: AI • Education                                               
-
----
 
  Currently Learning
 
