@@ -39,10 +39,10 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
  AMD Slingshot Hackathon,
  IBM SkillsBuild AI Builders Challenge,
  Product Space × CodeBenders AI Hackathon,
- Google Cloud Arcade
- X402-Prehack Globall challenge
- AWSXCockroach Agentic Memory Globall Challenge
- AMD  AI Developer Program
+ Google Cloud Arcade,
+ X402-Prehack Globall challenge,
+ AWSXCockroach Agentic Memory Globall Challenge,
+ AMD  AI Developer Program.
 
 
  Tech Stack
