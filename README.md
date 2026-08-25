@@ -15,7 +15,7 @@ Backend Developer | Cloud Engineering Enthusiast | AI Application Developer
 
 I'm a Computer Science undergraduate passionate about backend development, cloud computing, and AI-powered applications that solve real-world industry challenges.
 
-I enjoy designing scalable backend systems, integrating AI into practical applications, and building cloud-native solutions. Throughout my learning journey, I have built 9 projects**, including 3 ongoing industry-focused AI solutions, while continuously strengthening my software engineering and problem-solving skills.
+I enjoy designing scalable backend systems, integrating AI into practical applications, and building cloud-native solutions. Throughout my learning journey, I have built 7 projects**, including 3 industry-focused AI solutions, while continuously strengthening my software engineering and problem-solving skills.
 
 My goal is to become a Cloud Architect by developing scalable, reliable, and intelligent cloud applications that create real-world impact.
 
@@ -23,7 +23,7 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
 
  🚀 Highlights
 
- Built 9 Software Projects
+ Built 7 Software Projects
  Developing  Industry-Focused AI Solutions
  Backend & Cloud Engineering Enthusiast
  Open Source Contributor
@@ -40,8 +40,9 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
  IBM SkillsBuild AI Builders Challenge,
  Product Space × CodeBenders AI Hackathon,
  Google Cloud Arcade
-
-
+ X402-Prehack Globall challenge
+ AWSXCockroach Agentic Memory Globall Challenge
+ AMD  AI Developer Program
 
 
  Tech Stack
@@ -53,12 +54,11 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
 
  Currently Learning
 
-* Advanced Backend Development
+* Backend Development
 * Docker
-* Kubernetes
+* Fast API
 * AI Agents
-* DevOps
-
+* Linux+Shell+Pyhton+Security
 
 
 
