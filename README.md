@@ -42,7 +42,7 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
  Google Cloud Arcade,
  X402-Prehack Globall challenge,
  AWSXCockroach Agentic Memory Globall Challenge,
- AMD  AI Developer Program.
+ 
 
 
  Tech Stack
