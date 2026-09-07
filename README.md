@@ -47,20 +47,9 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
 
 
  Tech Stack
- Languages          : C++,Python,Linux                                            
+ Languages          : C++,Python,Linux,MongoDB                                           
  Tools & Platforms  : Git,Github,AWS, Supabase,VS code,Cursor,DataBricks                     
  Areas of Interest : Backend Development,Cloud Engineering,AI Application Development,Industry-Focused AI Solutions,Cloud-Native             Applications,Open Source Development
-
-
-
- Currently Learning
-
-* Backend Development
-* Docker
-* Fast API
-* AI Agents
-* Linux+Shell+Pyhton+Security
-
 
 
  🎯 Career Objective
