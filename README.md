@@ -11,6 +11,8 @@ Backend Developer | Cloud Engineering Enthusiast | AI Application Developer
 
 ---
 
+
+
  💫 About Me
 
 I'm a Computer Science undergraduate passionate about backend development, cloud computing, and AI-powered applications that solve real-world industry challenges.
@@ -18,6 +20,8 @@ I'm a Computer Science undergraduate passionate about backend development, cloud
 I enjoy designing scalable backend systems, integrating AI into practical applications, and building cloud-native solutions. Throughout my learning journey, I have built 7 projects**, including 3 industry-focused AI solutions, while continuously strengthening my software engineering and problem-solving skills.
 
 My goal is to become a Cloud Architect by developing scalable, reliable, and intelligent cloud applications that create real-world impact.
+
+
 
 
 
@@ -29,6 +33,7 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
  Open Source Contributor
  Active Hackathon Participant
  Passionate about solving industry problems using AI
+
 
 
 
@@ -46,10 +51,14 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
  
 
 
+
+
  Tech Stack
  Languages          : C++,Python,Linux,MongoDB                                           
  Tools & Platforms  : Git,Github,AWS, Supabase,VS code,Cursor,DataBricks                     
  Areas of Interest : Backend Development,Cloud Engineering,AI Application Development,Industry-Focused AI Solutions,Cloud-Native             Applications,Open Source Development
+
+
 
 
  🎯 Career Objective
@@ -57,6 +66,8 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
 I'm passionate about building backend systems, cloud-native applications, and AI-powered solutions that solve real-world industry challenges. I actively participate in hackathons, contribute to open-source projects, and continuously explore emerging technologies. My long-term goal is to become a Cloud Architect, designing secure, scalable, and intelligent cloud solutions that create meaningful impact.
 
 ---
+
+
 
  Let's Connect
 
