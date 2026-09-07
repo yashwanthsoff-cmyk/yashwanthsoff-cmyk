@@ -6,7 +6,7 @@ Backend Developer | Cloud Engineering Enthusiast | AI Application Developer
 
 🎓 **BE Computer Science & Engineering** @ BMS Institute of Technology & Management (BMSIT&M)
  Future Cloud Architect
- Built 9 Projects, including 3 Ongoing Industry-Focused AI Solutions
+ Built 9 Projects, including 3 Industry-Focused AI Solutions
  Active Hackathon Participant | Open Source Contributor
 
 ---
@@ -42,6 +42,7 @@ My goal is to become a Cloud Architect by developing scalable, reliable, and int
  Google Cloud Arcade,
  X402-Prehack Globall challenge,
  AWSXCockroach Agentic Memory Globall Challenge,
+ Bengaluru Teck Week-26
  
 
 
