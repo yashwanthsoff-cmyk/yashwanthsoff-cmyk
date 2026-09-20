@@ -6,7 +6,7 @@ Backend Developer | Cloud Engineering Enthusiast | AI Application Developer
 
 🎓 **BE Computer Science & Engineering** @ BMS Institute of Technology & Management (BMSIT&M)
  Future Cloud Architect
- Built 9 Projects, including 3 Industry-Focused AI Solutions
+ Built 9 Projects, including 3+ Industry-Focused AI Solutions
  Active Hackathon Participant | Open Source Contributor
 
 ---
