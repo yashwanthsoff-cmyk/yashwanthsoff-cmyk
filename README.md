@@ -19,7 +19,7 @@
   <br>
   ☁️ I build cloud-native backends and AI applications, and I'm working towards becoming a Cloud Architect
   <br>
-  🏆 I compete in hackathons: AMD Slingshot, IBM SkillsBuild AI Builders, AWS × CockroachDB Agentic Memory, Bengaluru Tech Week 26 ,First Commit , Kognivera 26
+  🏆 I compete in hackathons: AMD Slingshot, IBM SkillsBuild AI Builders, AWS × CockroachDB Agentic Memory, Bengaluru Tech Week 26
   <br>
   🌐 I contribute to open source
   <br>
@@ -35,11 +35,9 @@
 <br>
 <p align="center">
   <code><img title="Python" alt="Python" height="25" src="https://skillicons.dev/icons?i=py"></code>
-  <code><img title="Java" alt="Java" height="25" src="https://skillicons.dev/icons?i=java"></code>
   <code><img title="C++" alt="C++" height="25" src="https://skillicons.dev/icons?i=cpp"></code>
   <code><img title="TypeScript" alt="TypeScript" height="25" src="https://skillicons.dev/icons?i=ts"></code>
   <code><img title="JavaScript" alt="JavaScript" height="25" src="https://skillicons.dev/icons?i=js"></code>
-  <code><img title="React" alt="React" height="25" src="https://skillicons.dev/icons?i=react"></code>
   <code><img title="Node.js" alt="Node.js" height="25" src="https://skillicons.dev/icons?i=nodejs"></code>
   <code><img title="Streamlit" alt="Streamlit" height="25" src="https://cdn.simpleicons.org/streamlit/FF4B4B"></code>
   <code><img title="PostgreSQL" alt="PostgreSQL" height="25" src="https://skillicons.dev/icons?i=postgres"></code>
