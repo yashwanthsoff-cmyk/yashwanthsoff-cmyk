@@ -8,7 +8,6 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/yashwanth-s-75b33938b" title="LinkedIn Profile">💼 LinkedIn</a></code>
-  <code><a href="https://www.youtube.com/watch?v=zqW0JNkkIUY" title="Roach Watch Demo">▶️ Project Demo</a></code>
   <code><a href="mailto:yashwanthsoff@gmail.com" title="Email">✉️ Email</a></code>
 </h5>
 <br>
