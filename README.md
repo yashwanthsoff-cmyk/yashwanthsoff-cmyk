@@ -17,7 +17,7 @@
   <br>
   ☁️ I build cloud-native backends and AI applications, and I'm working towards becoming a Cloud Architect
   <br>
-   I compete in hackathons: AMD Slingshot, IBM SkillsBuild AI Builders, AWS × CockroachDB Agentic Memory, Bengaluru Tech Week 26 ,First Commit 26 , Kognivera etc 
+  🏆 I compete in hackathons: AMD Slingshot, IBM SkillsBuild AI Builders, AWS × CockroachDB Agentic Memory, Bengaluru Tech Week 26, First Commit 26, Kognivera and more
   <br>
   🌐 I contribute to open source
   <br>
@@ -115,7 +115,7 @@
     </td>
     <td align="center">
       <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-        <img width="390" src="https://github-readme-stats.vercel.app/api?username=yashwanthsoff-cmyk&show_icons=true&theme=react&border_color=61dafb&hide_border=true" alt="GitHub stats">
+        <img width="390" src="https://github-readme-stats.vercel.app/api?username=yashwanthsoff-cmyk&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide=prs,issues,contribs&hide_rank=true&include_all_commits=true" alt="GitHub stats">
       </a>
     </td>
   </tr>
@@ -128,7 +128,7 @@
   </tr>
 </table>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashwanthsoff-cmyk&theme=react-dark&bg_color=20232a&hide_border=true" width="100%" alt="Contribution activity graph">
+  <img src="https://raw.githubusercontent.com/yashwanthsoff-cmyk/yashwanthsoff-cmyk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
 </p>
 
 <hr>
