@@ -106,13 +106,27 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align="center">
-  <img src="./github-metrics.svg" width="100%" alt="GitHub metrics">
-</p>
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yashwanthsoff-cmyk/yashwanthsoff-cmyk/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake">
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+        <img width="390" src="https://streak-stats.demolab.com/?user=yashwanthsoff-cmyk&theme=react&border=61dafb&hide_border=true" alt="GitHub streak">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+        <img width="390" src="https://github-readme-stats.vercel.app/api?username=yashwanthsoff-cmyk&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide=prs,issues,contribs&hide_rank=true&include_all_commits=true&cache_seconds=21600" alt="GitHub stats">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashwanthsoff-cmyk&langs_count=8&layout=compact&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&border_color=61dafb&hide_border=true&size_weight=0.5&count_weight=0.5&cache_seconds=21600" alt="Top languages">
+      </a>
+    </td>
+  </tr>
+</table>
 
 <hr>
 
