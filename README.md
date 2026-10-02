@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yashwanthsoff-cmyk.yashwanthsoff-cmyk" alt="visitors">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=640&height=60&lines=Hello,+There!+%F0%9F%91%8B;This+is+Yashwanth+S;Backend+%7C+Cloud+%7C+AI+Applications;Nice+to+meet+you!" alt="Hello, There! This is Yashwanth S - Backend | Cloud | AI Applications">
@@ -19,7 +17,7 @@
   <br>
   ☁️ I build cloud-native backends and AI applications, and I'm working towards becoming a Cloud Architect
   <br>
-   I compete in hackathons: AMD Slingshot, IBM SkillsBuild AI Builders, AWS × CockroachDB Agentic Memory, Bengaluru Tech Week 26 ,First commit 26 ,kognivera 26.....etc
+  🏆 I compete in hackathons: AMD Slingshot, IBM SkillsBuild AI Builders, AWS × CockroachDB Agentic Memory, Bengaluru Tech Week 26
   <br>
   🌐 I contribute to open source
   <br>
