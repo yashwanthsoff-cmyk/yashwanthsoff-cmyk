@@ -17,7 +17,7 @@
   <br>
   ☁️ I build cloud-native backends and AI applications, and I'm working towards becoming a Cloud Architect
   <br>
-  🏆 I compete in hackathons: AMD Slingshot, IBM SkillsBuild AI Builders, AWS × CockroachDB Agentic Memory, Bengaluru Tech Week 26
+   I compete in hackathons: AMD Slingshot, IBM SkillsBuild AI Builders, AWS × CockroachDB Agentic Memory, Bengaluru Tech Week 26 ,First Commit 26 , Kognivera etc 
   <br>
   🌐 I contribute to open source
   <br>
