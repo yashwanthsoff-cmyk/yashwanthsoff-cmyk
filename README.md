@@ -109,8 +109,8 @@
 <table align="center">
   <tr>
     <td align="center">
-      <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-        <img width="390" src="https://streak-stats.demolab.com/?user=yashwanthsoff-cmyk&theme=react&border=61dafb&hide_border=true" alt="GitHub streak">
+      <a href="https://github.com/yashwanthsoff-cmyk" title="Contributions (auto-updated hourly)">
+        <img width="390" src="./stats/contributions.svg" alt="GitHub contributions and streak">
       </a>
     </td>
     <td align="center">
