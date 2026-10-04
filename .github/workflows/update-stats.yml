@@ -1,0 +1,134 @@
+name: Update contribution stats
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # every hour
+  workflow_dispatch:       # manual "Run workflow" button
+  push:
+    paths:
+      - .github/workflows/update-stats.yml   # runs once as soon as you add/edit this file
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stats
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate contributions card
+        env:
+          GH_TOKEN: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          GH_LOGIN: ${{ github.repository_owner }}
+        run: |
+          python3 - <<'PY'
+          import json, os, sys, urllib.request
+          from datetime import date, datetime, timezone
+
+          LOGIN = os.environ["GH_LOGIN"]
+          TOKEN = os.environ["GH_TOKEN"]
+          OUT = "stats/contributions.svg"
+
+          QUERY = """
+          query($login: String!) {
+            user(login: $login) {
+              contributionsCollection {
+                contributionCalendar {
+                  totalContributions
+                  weeks { contributionDays { date contributionCount } }
+                }
+              }
+            }
+          }
+          """
+
+          req = urllib.request.Request(
+              "https://api.github.com/graphql",
+              data=json.dumps({"query": QUERY, "variables": {"login": LOGIN}}).encode(),
+              headers={
+                  "Authorization": "Bearer " + TOKEN,
+                  "Content-Type": "application/json",
+                  "User-Agent": "profile-stats-generator",
+              },
+          )
+          with urllib.request.urlopen(req, timeout=30) as resp:
+              data = json.load(resp)
+          if "errors" in data or not data.get("data", {}).get("user"):
+              sys.exit("GitHub API error: " + json.dumps(data))
+
+          cal = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]
+          total = cal["totalContributions"]
+          today = datetime.now(timezone.utc).date()
+          series = sorted(
+              (date.fromisoformat(d["date"]), d["contributionCount"])
+              for w in cal["weeks"] for d in w["contributionDays"]
+          )
+          series = [(d, c) for d, c in series if d <= today]
+
+          # longest streak
+          lon_n, lon_s, lon_e = 0, None, None
+          run, start = 0, None
+          for d, c in series:
+              if c > 0:
+                  if run == 0:
+                      start = d
+                  run += 1
+                  if run > lon_n:
+                      lon_n, lon_s, lon_e = run, start, d
+              else:
+                  run = 0
+
+          # current streak (today may still be empty)
+          cur_n, cur_s, cur_e = 0, None, None
+          i = len(series) - 1
+          if i >= 0 and series[i][1] == 0:
+              i -= 1
+          while i >= 0 and series[i][1] > 0:
+              cur_n += 1
+              cur_s = series[i][0]
+              i -= 1
+          if cur_n:
+              cur_e = series[-1][0] if series[-1][1] > 0 else series[-2][0]
+
+          def rng(s, e):
+              if not s or not e:
+                  return "-"
+              f = lambda d: d.strftime("%b ") + str(d.day)
+              return f(s) if s == e else f(s) + " - " + f(e)
+
+          font = "font-family=\"'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif\""
+          svg = f"""<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="GitHub contributions: {total} in the last year, current streak {cur_n}, longest streak {lon_n}">
+            <rect x="0.5" y="0.5" width="494" height="194" rx="4.5" fill="#20232a"/>
+            <line x1="165" y1="28" x2="165" y2="167" stroke="#61dafb" stroke-opacity="0.35"/>
+            <line x1="330" y1="28" x2="330" y2="167" stroke="#61dafb" stroke-opacity="0.35"/>
+            <g text-anchor="middle" {font}>
+              <text x="82" y="94" font-size="28" font-weight="700" fill="#ffffff">{total}</text>
+              <text x="82" y="122" font-size="14" fill="#61dafb">Total Contributions</text>
+              <text x="82" y="146" font-size="12" fill="#ffffff">Last 12 months</text>
+              <circle cx="247" cy="82" r="40" fill="none" stroke="#61dafb" stroke-width="5"/>
+              <text x="247" y="92" font-size="28" font-weight="700" fill="#ffffff">{cur_n}</text>
+              <text x="247" y="148" font-size="14" font-weight="700" fill="#61dafb">Current Streak</text>
+              <text x="247" y="168" font-size="12" fill="#ffffff">{rng(cur_s, cur_e)}</text>
+              <text x="412" y="94" font-size="28" font-weight="700" fill="#ffffff">{lon_n}</text>
+              <text x="412" y="122" font-size="14" fill="#61dafb">Longest Streak</text>
+              <text x="412" y="146" font-size="12" fill="#ffffff">{rng(lon_s, lon_e)}</text>
+            </g>
+          </svg>
+          """
+          os.makedirs("stats", exist_ok=True)
+          with open(OUT, "w", encoding="utf-8") as f:
+              f.write(svg)
+          print("total", total, "current", cur_n, "longest", lon_n)
+          PY
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add stats/contributions.svg
+          git diff --cached --quiet || (git commit -m "chore: update contribution stats" && git push)
