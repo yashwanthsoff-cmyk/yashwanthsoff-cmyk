@@ -60,7 +60,7 @@
       <p align="center"><i>AWS × CockroachDB Agentic Memory Challenge</i></p>
       Autonomous incident-response engine. Retrieves similar past incidents, generates evidence-grounded root-cause analysis, and re-checks whether its own earlier advice held up. Application state and vector memory live together in CockroachDB.
       <br><br>
-      <b>Stack:</b> CockroachDB · AWS S3 · Vercel · Render
+      <b>Stack:</b> CockroachDB · AWS S3 · Vercel · Render and more
       <br><br>
       <p align="center">
         <a href="https://incident-guardian.vercel.app/">Live</a> ·
@@ -74,7 +74,7 @@
       <p align="center"><i>IBM SkillsBuild AI Builders Challenge</i></p>
       AI co-pilot for Formula 1 race engineers. Analyses live OpenF1 telemetry, tyre degradation and rival pit windows, and gives explainable strategy recommendations using IBM Granite and Docling.
       <br><br>
-      <b>Stack:</b> React · TanStack Start · AWS Lambda · Supabase · Cloudflare Workers
+      <b>Stack:</b> React · TanStack Start · AWS Lambda · Supabase · Cloudflare Workers and more
       <br><br>
       <p align="center">
         <a href="https://tanstack-start-app.raceibm-iq.workers.dev">Live</a> ·
@@ -86,7 +86,7 @@
       <p align="center"><i>Bengaluru Tech Week 26 · Checkpoint-Native DX</i></p>
       Developer-experience toolkit with five modules: dead-end registry, requirement ledger, intent conformance, agent resume contract, and resume integrity check with agent memory.
       <br><br>
-      <b>Stack:</b> Python · Streamlit · Supabase · Databricks
+      <b>Stack:</b> Python · Streamlit · Supabase · Databricks and more
       <br><br>
       <p align="center">
         <a href="https://github.com/yashwanthsoff-cmyk/BengTeck26">Code</a>
