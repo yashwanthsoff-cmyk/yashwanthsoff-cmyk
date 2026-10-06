@@ -70,7 +70,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🏎️ RaceIQ</h3>
+      <h3 align="center"> RaceIQ</h3>
       <p align="center"><i>IBM SkillsBuild AI Builders Challenge</i></p>
       AI co-pilot for Formula 1 race engineers. Analyses live OpenF1 telemetry, tyre degradation and rival pit windows, and gives explainable strategy recommendations using IBM Granite and Docling.
       <br><br>
@@ -82,7 +82,7 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🧭 BengTeck26</h3>
+      <h3 align="center"> BengTeck26</h3>
       <p align="center"><i>Bengaluru Tech Week 26 · Checkpoint-Native DX</i></p>
       Developer-experience toolkit with five modules: dead-end registry, requirement ledger, intent conformance, agent resume contract, and resume integrity check with agent memory.
       <br><br>
