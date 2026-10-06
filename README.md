@@ -56,7 +56,7 @@
 <table align="center">
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🪳 Roach Watch</h3>
+      <h3 align="center"> Roach Watch</h3>
       <p align="center"><i>AWS × CockroachDB Agentic Memory Challenge</i></p>
       Autonomous incident-response engine. Retrieves similar past incidents, generates evidence-grounded root-cause analysis, and re-checks whether its own earlier advice held up. Application state and vector memory live together in CockroachDB.
       <br><br>
