@@ -23,7 +23,7 @@
   <br>
   💻 I love building scalable systems and learning everything about them
   <br>
-  💬 Ask me anything from <a href="https://github.com/yashwanthsoff-cmyk/yashwanthsoff-cmyk/issues" title="Issues">Here</a>
+ 
   <br>
   📫 How to reach me: <a href="mailto:yashwanthsoff@gmail.com">yashwanthsoff@gmail.com</a>
 </p>
