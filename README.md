@@ -16,9 +16,7 @@
   🎓 I'm pursuing BE in Computer Science &amp; Engineering at BMS Institute of Technology &amp; Management (BMSIT&amp;M)
   <br>
   ☁️ I build cloud-native backends and AI applications, and I'm working towards becoming a Cloud Architect
-  <br>
-   I compete in hackathons: AMD Slingshot, IBM SkillsBuild AI Builders, AWS × CockroachDB Agentic Memory, Bengaluru Tech Week 2k26, First Commit 2k26, Kognivera 2k26 and more
-  <br>
+ 
   🌐 I contribute to open source
   <br>
   💻 I love building scalable systems and learning everything about them
