@@ -16,7 +16,8 @@
   🎓 I'm pursuing BE in Computer Science &amp; Engineering at BMS Institute of Technology &amp; Management (BMSIT&amp;M)
   <br>
   ☁️ I build cloud-native backends and AI applications, and I'm working towards becoming a Cloud Architect
- 
+  <br>
+  <br>
   🌐 I contribute to open source
   <br>
   💻 I love building scalable systems and learning everything about them
